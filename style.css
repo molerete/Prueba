@@ -1,0 +1,28 @@
+p.azul{
+color: blue;
+
+}
+span.rojo{
+color: red;
+
+}
+span.rosa{
+
+    color: pink;
+}
+span.verde{
+color: green;
+
+}
+span.Itadori{
+
+    font-style:oblique
+}
+span.negrita{
+
+    font-weight: bold;
+}
+span.pequeño{
+
+    font-size: small;
+}
